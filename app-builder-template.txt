@@ -1,0 +1,30 @@
+app-builder-templates
+│
+├── docs-template
+│   ├── project-overview.md
+│   ├── user-problem.md
+│   ├── success-metrics.md
+│   ├── product-requirements.md
+│   ├── mvp-scope.md
+│   ├── future-roadmap.md
+│   ├── decisions-log.md
+│   ├── ui-ux-direction.md
+│   ├── user-flows.md
+│   ├── core-screens.md
+│   ├── technical-architecture.md
+│   ├── data-model.md
+│   ├── integrations.md
+│   ├── engineering-standards.md
+│   ├── build-plan.md
+│   ├── prompt-pack.md
+│   ├── qa-checklist.md
+│   ├── launch-plan.md
+│   ├── analytics-events.md
+│   └── post-launch-iteration.md
+│
+└── skills-template
+    ├── nextjs-skill.md
+    ├── typescript-skill.md
+    ├── supabase-skill.md
+    ├── ui-components-skill.md
+    └── testing-skill.md
